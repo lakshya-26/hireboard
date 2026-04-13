@@ -1,0 +1,6 @@
+[submodule "hireboard-backend"]
+	path = hireboard-backend
+	url = https://github.com/lakshya-26/hireboard-backend.git
+[submodule "hireboard-frontend"]
+	path = hireboard-frontend
+	url = https://github.com/lakshya-26/hireboard-frontend.git
